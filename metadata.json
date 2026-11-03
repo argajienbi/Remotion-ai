@@ -1,0 +1,6 @@
+{
+  "name": "Remotion Video Studio",
+  "description": "Generator video Remotion otomatis berbasis template teks dan gambar dengan scene builder, multi-rasio layar, preview dinamis, serta ekspor MP4 dan kode TypeScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
